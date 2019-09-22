@@ -13,7 +13,6 @@
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/learning</property>
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">Lokendra@282</property>
- 
         <!-- Echo All Executed SQL To Console -->
         <property name="show_sql">true</property>       
  
